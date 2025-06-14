@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff8f0;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #e1306c;
+    color: white;
+    text-align: center;
+    padding: 2rem;
+}
+
+.tips {
+    padding: 2rem;
+    max-width: 800px;
+    margin: auto;
+}
+
+.tips ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.tips li {
+    background: #fff;
+    margin: 0.5rem 0;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.newsletter {
+    background-color: #fafafa;
+    text-align: center;
+    padding: 2rem;
+}
+
+.newsletter input {
+    padding: 0.5rem;
+    width: 250px;
+    margin-right: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+.newsletter button {
+    padding: 0.5rem 1rem;
+    background-color: #e1306c;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #eee;
+    margin-top: 2rem;
+}
